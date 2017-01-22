@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Project(1.81)" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CG_Assignment1(1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CG_Assignment1(1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++0x" />
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lopengl32 -lmingw32 -lglfw3" />
+			<Add option="-lglew32 -lglew32s -lgdi32" />
+			<Add library="gdi32" />
+			<Add library="glfw3" />
+			<Add library="opengl32" />
+			<Add library="glew32" />
+			<Add library="glew32s" />
+			<Add library="glu32" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/lib" />
+		</Linker>
+		<Unit filename="HeightMap.cpp" />
+		<Unit filename="HeightMap.h" />
+		<Unit filename="InputState.h" />
+		<Unit filename="Sphere.cpp" />
+		<Unit filename="Sphere.hpp" />
+		<Unit filename="Table.cpp" />
+		<Unit filename="Table.h" />
+		<Unit filename="Viewer.cpp" />
+		<Unit filename="Viewer.h" />
+		<Unit filename="cubemap.frag" />
+		<Unit filename="cubemap.vert" />
+		<Unit filename="hdr.frag" />
+		<Unit filename="hdr.vs" />
+		<Unit filename="include/Shadow.h" />
+		<Unit filename="include/Skybox.h" />
+		<Unit filename="include/SunMoon.h" />
+		<Unit filename="lighting.frag" />
+		<Unit filename="lighting.vs" />
+		<Unit filename="main.cpp" />
+		<Unit filename="pf-light.frag" />
+		<Unit filename="pf-light.vert" />
+		<Unit filename="shader.cpp" />
+		<Unit filename="shader.h" />
+		<Unit filename="shader.hpp" />
+		<Unit filename="src/Shadow.cpp" />
+		<Unit filename="src/Skybox.cpp" />
+		<Unit filename="src/SunMoon.cpp" />
+		<Unit filename="stb_image.h" />
+		<Unit filename="sunMoon.frag" />
+		<Unit filename="sunMoon.vert" />
+		<Unit filename="sunMoon.vs" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,8 @@
+uniform int tod;
+
+day =  texture(texmap1,st)
+night =  texmap2(texmap2,st)
+
+out = ((1-tod)*night) + (tod*day)
+
+tod = sin(tod);

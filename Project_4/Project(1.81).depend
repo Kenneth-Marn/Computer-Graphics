@@ -1,0 +1,2007 @@
+# depslib dependency file v1.0
+1456797521 source:d:\university works!\sem 1 2016\cg\cg_assignment1(1.2)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"shader.hpp"
+
+1407766496 c:\program files\codeblocks\mingw\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1341010372 c:\program files\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341010370 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1341010376 c:\program files\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1198800450 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1198800450 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1453336928 d:\university works!\sem 1 2016\cg\cg_assignment1(1.2)\shader.hpp
+
+1457054734 source:d:\university works!\sem 1 2016\cg\cg_assignment1(1.3)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"shader.hpp"
+
+1341010376 c:\program files\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341010380 c:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010376 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1444709878 c:\program files\codeblocks\mingw\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES3/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES3/gl2ext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1198800450 c:\program files\codeblocks\mingw\include\gl\glext.h
+	<windows.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winerror.h
+
+1341010376 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1341010372 c:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1453336928 d:\university works!\sem 1 2016\cg\cg_assignment1(1.3)\shader.hpp
+
+1456797521 source:d:\university works!\sem 1 2016\cg\cg_assignment1(1.3)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"shader.hpp"
+
+1456801121 source:d:\university works!\sem 1 2016\cg\cg_assignment1(1.4)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"shader.hpp"
+
+1453340528 d:\university works!\sem 1 2016\cg\cg_assignment1(1.4)\shader.hpp
+
+1461094656 source:d:\university works!\sem 1 2016\cg\cg_assignment1(1.4)\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader.hpp"
+
+1341010374 c:\program files\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1438464936 c:\program files\codeblocks\mingw\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<__config>
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1438465103 c:\program files\codeblocks\mingw\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\precision.hpp
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\_swizzle.hpp
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\_swizzle_func.hpp
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_vec2.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_vec3.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1441038892 c:\program files\codeblocks\mingw\include\glm\detail\type_vec4_sse2.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\type_vec4_avx.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\type_vec4_avx2.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat2x2.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat2x3.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat2x4.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat3x2.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat3x3.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat3x4.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat4x2.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat4x3.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_mat4x4.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1441051837 c:\program files\codeblocks\mingw\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\type_vec1.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1451841634 c:\program files\codeblocks\mingw\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1437262117 c:\program files\codeblocks\mingw\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1451842014 c:\program files\codeblocks\mingw\include\glm\detail\type_half.inl
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1426535103 c:\program files\codeblocks\mingw\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1441051454 c:\program files\codeblocks\mingw\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1441052694 c:\program files\codeblocks\mingw\include\glm\gtc\constants.inl
+	<limits>
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1451844098 c:\program files\codeblocks\mingw\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1424014283 c:\program files\codeblocks\mingw\include\glm\gtc\type_ptr.inl
+	<cstring>
+
+1453340534 source:d:\university works!\sem 1 2016\cg\cubemapexample\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\cubemapexample\shader.hpp
+
+1464376074 source:d:\university works!\sem 1 2016\cg\cubemapexample\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"Shader.hpp"
+	"stb_image.h"
+
+1458776550 d:\university works!\sem 1 2016\cg\cubemapexample\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1341010370 c:\program files\codeblocks\mingw\include\assert.h
+	<_mingw.h>
+
+1453340534 source:d:\university works!\sem 1 2016\cg\project\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project\shader.hpp
+
+1464398971 source:d:\university works!\sem 1 2016\cg\project\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
+1464320977 d:\university works!\sem 1 2016\cg\project\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1458327516 d:\university works!\sem 1 2016\cg\project\inputstate.h
+
+1464657963 source:d:\university works!\sem 1 2016\cg\project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Shader.hpp"
+
+1458776550 d:\university works!\sem 1 2016\cg\project\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1464248851 source:d:\university works!\sem 1 2016\cg\project\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project\table.h
+
+1464657653 d:\university works!\sem 1 2016\cg\project\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1464657667 source:d:\university works!\sem 1 2016\cg\project\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1453340534 source:d:\university works!\sem 1 2016\cg\project(1.1)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.1)\shader.hpp
+
+1464733870 source:d:\university works!\sem 1 2016\cg\project(1.1)\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1464657653 d:\university works!\sem 1 2016\cg\project(1.1)\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1458776550 d:\university works!\sem 1 2016\cg\project(1.1)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1464248851 source:d:\university works!\sem 1 2016\cg\project(1.1)\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.1)\table.h
+
+1464735067 source:d:\university works!\sem 1 2016\cg\project(1.1)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Sphere.hpp"
+	"Shader.hpp"
+
+1458327516 d:\university works!\sem 1 2016\cg\project(1.1)\inputstate.h
+
+1464320977 d:\university works!\sem 1 2016\cg\project(1.1)\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1464668575 source:d:\university works!\sem 1 2016\cg\project(1.1)\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
+1460143322 d:\university works!\sem 1 2016\cg\project(1.1)\sphere.hpp
+
+1461870726 source:d:\university works!\sem 1 2016\cg\project(1.1)\sphere.cpp
+	<math.h>
+	"Sphere.hpp"
+
+1453340534 source:d:\university works!\sem 1 2016\cg\project(1.2)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.2)\shader.hpp
+
+1461870726 source:d:\university works!\sem 1 2016\cg\project(1.2)\sphere.cpp
+	<math.h>
+	"Sphere.hpp"
+
+1460143322 d:\university works!\sem 1 2016\cg\project(1.2)\sphere.hpp
+
+1464824697 source:d:\university works!\sem 1 2016\cg\project(1.2)\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1464824737 d:\university works!\sem 1 2016\cg\project(1.2)\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1458776550 d:\university works!\sem 1 2016\cg\project(1.2)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1464823908 source:d:\university works!\sem 1 2016\cg\project(1.2)\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.2)\table.h
+
+1464668575 source:d:\university works!\sem 1 2016\cg\project(1.2)\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
+1464320977 d:\university works!\sem 1 2016\cg\project(1.2)\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1458327516 d:\university works!\sem 1 2016\cg\project(1.2)\inputstate.h
+
+1464828369 source:d:\university works!\sem 1 2016\cg\project(1.2)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Sphere.hpp"
+	"Shader.hpp"
+
+1453340534 source:d:\university works!\sem 1 2016\cg\project(1.3)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.3)\shader.hpp
+
+1461870726 source:d:\university works!\sem 1 2016\cg\project(1.3)\sphere.cpp
+	<math.h>
+	"Sphere.hpp"
+
+1460143322 d:\university works!\sem 1 2016\cg\project(1.3)\sphere.hpp
+
+1464843861 source:d:\university works!\sem 1 2016\cg\project(1.3)\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1464824737 d:\university works!\sem 1 2016\cg\project(1.3)\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1458776550 d:\university works!\sem 1 2016\cg\project(1.3)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1464823908 source:d:\university works!\sem 1 2016\cg\project(1.3)\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.3)\table.h
+
+1464841696 source:d:\university works!\sem 1 2016\cg\project(1.3)\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
+1464320977 d:\university works!\sem 1 2016\cg\project(1.3)\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1458327516 d:\university works!\sem 1 2016\cg\project(1.3)\inputstate.h
+
+1465253316 source:d:\university works!\sem 1 2016\cg\project(1.3)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Sphere.hpp"
+	"HeightMap.h"
+	"Shader.hpp"
+
+1465198969 d:\university works!\sem 1 2016\cg\project(1.3)\heightmap.h
+
+1465198780 source:d:\university works!\sem 1 2016\cg\project(1.3)\heightmap.cpp
+	"HeightMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<GL/glew.h>
+	<vector>
+	<iostream>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"stb_image.h"
+
+1465265349 source:d:\university works!\sem 1 2016\cg\project(1.4)\heightmap.cpp
+	"HeightMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<GL/glew.h>
+	<vector>
+	<iostream>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"stb_image.h"
+
+1465198969 d:\university works!\sem 1 2016\cg\project(1.4)\heightmap.h
+
+1458776550 d:\university works!\sem 1 2016\cg\project(1.4)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1465275137 source:d:\university works!\sem 1 2016\cg\project(1.4)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Sphere.hpp"
+	"HeightMap.h"
+	"Shader.hpp"
+
+1458327516 d:\university works!\sem 1 2016\cg\project(1.4)\inputstate.h
+
+1464320977 d:\university works!\sem 1 2016\cg\project(1.4)\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.4)\table.h
+
+1464824737 d:\university works!\sem 1 2016\cg\project(1.4)\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1460143322 d:\university works!\sem 1 2016\cg\project(1.4)\sphere.hpp
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.4)\shader.hpp
+
+1453340534 source:d:\university works!\sem 1 2016\cg\project(1.4)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1461870726 source:d:\university works!\sem 1 2016\cg\project(1.4)\sphere.cpp
+	<math.h>
+	"Sphere.hpp"
+
+1464843861 source:d:\university works!\sem 1 2016\cg\project(1.4)\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1464823908 source:d:\university works!\sem 1 2016\cg\project(1.4)\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1464841696 source:d:\university works!\sem 1 2016\cg\project(1.4)\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
+1465424436 source:d:\university works!\sem 1 2016\cg\project(1.5)\heightmap.cpp
+	"HeightMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<GL/glew.h>
+	<vector>
+	<iostream>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"stb_image.h"
+
+1465276927 d:\university works!\sem 1 2016\cg\project(1.5)\heightmap.h
+
+1458776550 d:\university works!\sem 1 2016\cg\project(1.5)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1453340534 source:d:\university works!\sem 1 2016\cg\project(1.5)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.5)\shader.hpp
+
+1461870726 source:d:\university works!\sem 1 2016\cg\project(1.5)\sphere.cpp
+	<math.h>
+	"Sphere.hpp"
+
+1460143322 d:\university works!\sem 1 2016\cg\project(1.5)\sphere.hpp
+
+1465357264 source:d:\university works!\sem 1 2016\cg\project(1.5)\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1464824737 d:\university works!\sem 1 2016\cg\project(1.5)\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1464823908 source:d:\university works!\sem 1 2016\cg\project(1.5)\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1465276894 d:\university works!\sem 1 2016\cg\project(1.5)\table.h
+
+1464841696 source:d:\university works!\sem 1 2016\cg\project(1.5)\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
+1464320977 d:\university works!\sem 1 2016\cg\project(1.5)\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1458327516 d:\university works!\sem 1 2016\cg\project(1.5)\inputstate.h
+
+1465424158 source:d:\university works!\sem 1 2016\cg\project(1.5)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Sphere.hpp"
+	"HeightMap.h"
+	"Shadow.h"
+	"Shader.hpp"
+
+1465341587 d:\university works!\sem 1 2016\cg\project(1.5)\include\shadow.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"../Viewer.h"
+	"Skybox.h"
+	"../Sphere.hpp"
+	"../HeightMap.h"
+
+1465355061 source:d:\university works!\sem 1 2016\cg\project(1.5)\src\shadow.cpp
+	"Shadow.h"
+
+1465454358 source:d:\university works!\sem 1 2016\cg\project(1.6)\heightmap.cpp
+	"HeightMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<GL/glew.h>
+	<vector>
+	<iostream>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"stb_image.h"
+
+1465276927 d:\university works!\sem 1 2016\cg\project(1.6)\heightmap.h
+
+1458776550 d:\university works!\sem 1 2016\cg\project(1.6)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1453340534 source:d:\university works!\sem 1 2016\cg\project(1.6)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.6)\shader.hpp
+
+1461870726 source:d:\university works!\sem 1 2016\cg\project(1.6)\sphere.cpp
+	<math.h>
+	"Sphere.hpp"
+
+1460143322 d:\university works!\sem 1 2016\cg\project(1.6)\sphere.hpp
+
+1465458658 source:d:\university works!\sem 1 2016\cg\project(1.6)\src\shadow.cpp
+	"Shadow.h"
+
+1465458642 d:\university works!\sem 1 2016\cg\project(1.6)\include\shadow.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"../Viewer.h"
+	"Skybox.h"
+	"../Sphere.hpp"
+	"../HeightMap.h"
+
+1464320977 d:\university works!\sem 1 2016\cg\project(1.6)\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1458327516 d:\university works!\sem 1 2016\cg\project(1.6)\inputstate.h
+
+1464824737 d:\university works!\sem 1 2016\cg\project(1.6)\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1465357264 source:d:\university works!\sem 1 2016\cg\project(1.6)\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1464823908 source:d:\university works!\sem 1 2016\cg\project(1.6)\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1465276894 d:\university works!\sem 1 2016\cg\project(1.6)\table.h
+
+1464841696 source:d:\university works!\sem 1 2016\cg\project(1.6)\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
+1465513308 source:d:\university works!\sem 1 2016\cg\project(1.6)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Sphere.hpp"
+	"HeightMap.h"
+	"Shadow.h"
+	"Shader.hpp"
+	"SunMoon.h"
+
+1465445177 d:\university works!\sem 1 2016\cg\project(1.6)\include\sunmoon.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<fstream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"../Sphere.hpp"
+	"../stb_image.h"
+
+1465512306 source:d:\university works!\sem 1 2016\cg\project(1.6)\src\sunmoon.cpp
+	"SunMoon.h"
+
+1465613836 source:d:\university works!\sem 1 2016\cg\project(1.7)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Sphere.hpp"
+	"HeightMap.h"
+	"Shadow.h"
+	"Shader.hpp"
+	"SunMoon.h"
+	"shader.h"
+
+1458327516 d:\university works!\sem 1 2016\cg\project(1.7)\inputstate.h
+
+1464320977 d:\university works!\sem 1 2016\cg\project(1.7)\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1465276894 d:\university works!\sem 1 2016\cg\project(1.7)\table.h
+
+1465546240 d:\university works!\sem 1 2016\cg\project(1.7)\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1460143322 d:\university works!\sem 1 2016\cg\project(1.7)\sphere.hpp
+
+1465276927 d:\university works!\sem 1 2016\cg\project(1.7)\heightmap.h
+
+1465540593 d:\university works!\sem 1 2016\cg\project(1.7)\include\shadow.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"../Viewer.h"
+	"Skybox.h"
+	"../Sphere.hpp"
+	"../HeightMap.h"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.7)\shader.hpp
+
+1465614552 d:\university works!\sem 1 2016\cg\project(1.7)\include\sunmoon.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<fstream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<vector>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"../Sphere.hpp"
+	"../stb_image.h"
+	"../Shader.hpp"
+	"../shader.h"
+	"../Viewer.h"
+
+1458776550 d:\university works!\sem 1 2016\cg\project(1.7)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1453340534 source:d:\university works!\sem 1 2016\cg\project(1.7)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1461870726 source:d:\university works!\sem 1 2016\cg\project(1.7)\sphere.cpp
+	<math.h>
+	"Sphere.hpp"
+
+1465458658 source:d:\university works!\sem 1 2016\cg\project(1.7)\src\shadow.cpp
+	"Shadow.h"
+
+1465610078 source:d:\university works!\sem 1 2016\cg\project(1.7)\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1464823908 source:d:\university works!\sem 1 2016\cg\project(1.7)\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1465527427 source:d:\university works!\sem 1 2016\cg\project(1.7)\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
+1465514399 source:d:\university works!\sem 1 2016\cg\project(1.7)\heightmap.cpp
+	"HeightMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<GL/glew.h>
+	<vector>
+	<iostream>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"stb_image.h"
+
+1464095470 d:\university works!\sem 1 2016\cg\project(1.7)\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1465613749 source:d:\university works!\sem 1 2016\cg\project(1.7)\src\sunmoon.cpp
+	"SunMoon.h"
+
+1465631937 source:d:\university works!\sem 1 2016\cg\project(1.8)\heightmap.cpp
+	"HeightMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<GL/glew.h>
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"stb_image.h"
+
+1465626713 d:\university works!\sem 1 2016\cg\project(1.8)\heightmap.h
+	<vector>
+	<string>
+	<sstream>
+
+1458776550 d:\university works!\sem 1 2016\cg\project(1.8)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1465631260 source:d:\university works!\sem 1 2016\cg\project(1.8)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Sphere.hpp"
+	"HeightMap.h"
+	"Shadow.h"
+	"Shader.hpp"
+	"SunMoon.h"
+	"shader.h"
+
+1458327516 d:\university works!\sem 1 2016\cg\project(1.8)\inputstate.h
+
+1464320977 d:\university works!\sem 1 2016\cg\project(1.8)\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1465276894 d:\university works!\sem 1 2016\cg\project(1.8)\table.h
+
+1465546240 d:\university works!\sem 1 2016\cg\project(1.8)\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1460143322 d:\university works!\sem 1 2016\cg\project(1.8)\sphere.hpp
+
+1465540593 d:\university works!\sem 1 2016\cg\project(1.8)\include\shadow.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"../Viewer.h"
+	"Skybox.h"
+	"../Sphere.hpp"
+	"../HeightMap.h"
+
+1453340534 d:\university works!\sem 1 2016\cg\project(1.8)\shader.hpp
+
+1465619659 d:\university works!\sem 1 2016\cg\project(1.8)\include\sunmoon.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<fstream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<vector>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"../Sphere.hpp"
+	"../stb_image.h"
+	"../Shader.hpp"
+	"../shader.h"
+	"../Viewer.h"
+
+1464095470 d:\university works!\sem 1 2016\cg\project(1.8)\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1453340534 source:d:\university works!\sem 1 2016\cg\project(1.8)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1461870726 source:d:\university works!\sem 1 2016\cg\project(1.8)\sphere.cpp
+	<math.h>
+	"Sphere.hpp"
+
+1465630065 source:d:\university works!\sem 1 2016\cg\project(1.8)\src\shadow.cpp
+	"Shadow.h"
+
+1465619024 source:d:\university works!\sem 1 2016\cg\project(1.8)\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1465629893 source:d:\university works!\sem 1 2016\cg\project(1.8)\src\sunmoon.cpp
+	"SunMoon.h"
+
+1464823908 source:d:\university works!\sem 1 2016\cg\project(1.8)\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1465618483 source:d:\university works!\sem 1 2016\cg\project(1.8)\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
+1465683715 source:d:\university works!\sem 1 2016\cg\project(1.81)\heightmap.cpp
+	"HeightMap.h"
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<GL/glew.h>
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"stb_image.h"
+
+1465623113 d:\university works!\sem 1 2016\cg\project(1.81)\heightmap.h
+	<vector>
+	<string>
+	<sstream>
+
+1458772950 d:\university works!\sem 1 2016\cg\project(1.81)\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1467670916 source:d:\university works!\sem 1 2016\cg\project(1.81)\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"InputState.h"
+	"Viewer.h"
+	"Table.h"
+	"Skybox.h"
+	"Sphere.hpp"
+	"HeightMap.h"
+	"Shadow.h"
+	"Shader.hpp"
+	"SunMoon.h"
+	"shader.h"
+
+1458323916 d:\university works!\sem 1 2016\cg\project(1.81)\inputstate.h
+
+1464317377 d:\university works!\sem 1 2016\cg\project(1.81)\viewer.h
+	"InputState.h"
+	"glm/glm.hpp"
+
+1465273294 d:\university works!\sem 1 2016\cg\project(1.81)\table.h
+
+1465542640 d:\university works!\sem 1 2016\cg\project(1.81)\include\skybox.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1460139722 d:\university works!\sem 1 2016\cg\project(1.81)\sphere.hpp
+
+1465536993 d:\university works!\sem 1 2016\cg\project(1.81)\include\shadow.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"../Viewer.h"
+	"Skybox.h"
+	"../Sphere.hpp"
+	"../HeightMap.h"
+
+1453336934 d:\university works!\sem 1 2016\cg\project(1.81)\shader.hpp
+
+1465616059 d:\university works!\sem 1 2016\cg\project(1.81)\include\sunmoon.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<fstream>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<vector>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"../Sphere.hpp"
+	"../stb_image.h"
+	"../Shader.hpp"
+	"../shader.h"
+	"../Viewer.h"
+
+1464091870 d:\university works!\sem 1 2016\cg\project(1.81)\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1453336934 source:d:\university works!\sem 1 2016\cg\project(1.81)\shader.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"Shader.hpp"
+
+1461867126 source:d:\university works!\sem 1 2016\cg\project(1.81)\sphere.cpp
+	<math.h>
+	"Sphere.hpp"
+
+1465628961 source:d:\university works!\sem 1 2016\cg\project(1.81)\src\shadow.cpp
+	"Shadow.h"
+
+1465615424 source:d:\university works!\sem 1 2016\cg\project(1.81)\src\skybox.cpp
+	"Skybox.h"
+	"../stb_image.h"
+
+1465683415 source:d:\university works!\sem 1 2016\cg\project(1.81)\src\sunmoon.cpp
+	"SunMoon.h"
+
+1464820308 source:d:\university works!\sem 1 2016\cg\project(1.81)\table.cpp
+	"Table.h"
+	<GL/glew.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"glm/glm.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtc/type_ptr.hpp"
+
+1465614883 source:d:\university works!\sem 1 2016\cg\project(1.81)\viewer.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"Viewer.h"
+	"glm/gtc/matrix_transform.hpp"
+
